@@ -7,3 +7,5 @@ Softwares utilized
 - Anacoda
 - gitbash
 - vscode
+- flow chart : https://app.diagrams.net/
+- MLOPS Tool:   evidently =  https://www.evidentlyai.com/

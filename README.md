@@ -9,3 +9,6 @@ Softwares utilized
 - vscode
 - flow chart : https://app.diagrams.net/
 - MLOPS Tool:   evidently =  https://www.evidentlyai.com/
+
+- Dataset :Automobile dataset  from kaggle ,
+link:  https://www.kaggle.com/code/hdcortes/automobile-dataset-eda-and-regression/input?select=Automobile_data.csv

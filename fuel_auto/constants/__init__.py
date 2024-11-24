@@ -5,7 +5,7 @@ DATABASE_NAME = "automobile"
 
 COLLECTION_NAME = "auto_data"
 
-MONGODB_URL_KEY = "MONGODB_URL"
+MONGODB_URL_KEY = "MONGODB_URL_KEY"
 
 PIPELINE_NAME: str = "fuel_auto"
 

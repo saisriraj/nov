@@ -7,7 +7,7 @@ COLLECTION_NAME = "auto_data"
 
 MONGODB_URL_KEY = "MONGODB_URL"
 
-PIPELINE_NAME: str = "auto_mobile"
+PIPELINE_NAME: str = "fuel_auto"
 
 ARTIFACT_DIR: str = "artifact"
 

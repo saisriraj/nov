@@ -1,3 +1,4 @@
+from fuel_auto.configuration.mongo_db_connection import  MongoDBClient 
 from fuel_auto.configuration import  MongoDBClient 
 from fuel_auto.constants import DATABASE_NAME
 from fuel_auto.exception import Auto_Exception

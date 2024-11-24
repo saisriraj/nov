@@ -1,12 +1,5 @@
-from fuel_auto.logger import logging
-import sys
+from fuel_auto.pipline.training_pipeline import TrainPipeline
+obj = TrainPipeline()
 
-logging.info("Welcome to r custome logging") 
+obj.run_pipeline()
 
-
-from fuel_auto.exception import Auto_Exception
-
-try:
-    a = 8/0
-except Exception as e:
-    raise Auto_Exception(e,sys)
